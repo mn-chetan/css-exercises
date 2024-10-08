@@ -1,0 +1,14 @@
+.clickable {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+}
+
+.nonclickable {
+  background-color: hsl(60, 100%, 50%);
+}
+
+.clickable,
+.nonclickable {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}

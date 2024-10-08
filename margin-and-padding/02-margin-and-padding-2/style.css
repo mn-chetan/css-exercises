@@ -25,3 +25,33 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
+/* Soltuion */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  padding: 12px;
+}
+
+.title {
+  padding: 12px;
+  margin: 12px auto;
+}
+
+.content {
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+}
